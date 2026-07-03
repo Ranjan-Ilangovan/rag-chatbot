@@ -33,10 +33,10 @@ Reading a 50-page report to find one answer wastes hours. This app lets you:
 ## 🖥️ App Preview
 
 <img width="248" height="546" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
-<img width="248" height="546" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
-<img width="248" height="546" alt="Screenshot 3" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
-<img width="248" height="546" alt="Screenshot 4" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
-<img width="248" height="546" alt="Screenshot 5" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
+<img width="1913" height="896" alt="Screenshot 2" src="https://github.com/user-attachments/assets/7af109d6-c9ff-4c49-800a-78f1a9ed165d" />
+<img width="1892" height="875" alt="Screenshot 3" src="https://github.com/user-attachments/assets/292dd8b4-2dfe-40d7-9593-0f5244e279f0" />
+<img width="1903" height="891" alt="Screenshot 4" src="https://github.com/user-attachments/assets/eec62036-4680-4278-836e-86626d3de345" />
+<img width="1897" height="888" alt="Screenshot 5" src="https://github.com/user-attachments/assets/8835a0ed-915d-4b55-9e08-8b47025fd4e5" />
 
 
 
