@@ -32,11 +32,13 @@ Reading a 50-page report to find one answer wastes hours. This app lets you:
 
 ## 🖥️ App Preview
 
-e:\AI Data Analytics\Project 2\Screenshot 1.png
-e:\AI Data Analytics\Project 2\Screenshot 2.png
-e:\AI Data Analytics\Project 2\Screenshot 3.png
-e:\AI Data Analytics\Project 2\Screenshot 4.png
-e:\AI Data Analytics\Project 2\Screenshot 5.png
+<img width="248" height="546" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
+<img width="248" height="546" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
+<img width="248" height="546" alt="Screenshot 3" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
+<img width="248" height="546" alt="Screenshot 4" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
+<img width="248" height="546" alt="Screenshot 5" src="https://github.com/user-attachments/assets/b0116dad-c563-45f7-979e-512192e004b0" />
+
+
 
 
 ---
