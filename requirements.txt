@@ -1,0 +1,6 @@
+langchain
+langchain-community
+streamlit
+pypdf
+ollama
+scikit-learn
